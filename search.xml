@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[GitHub + HEXO 搭建个人博客]]></title>
+    <url>%2F2019%2F03%2F21%2FGitHub-HEXO-%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[GitHub + HEXO 搭建个人博客第一步: 申请Github账号第二步: 安装git,node,npm第三歩: 下载hexo,克隆hexo next主题第四步: 创建指定格式的公共库,并使用对应的域名访问.第五步: hexo相关操作,并发布博客转载相关连接: 第一步: 第二步: 第三歩:https://zhuanlan.zhihu.com/p/26625249 第四步:https://blog.csdn.net/renfufei/article/details/37725057 第五步:https://theme-next.org/]]></content>
+      <tags>
+        <tag>GitHub + HEXO 搭建个人博客</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[first-article]]></title>
     <url>%2F2019%2F03%2F21%2Ffirst-article%2F</url>
     <content type="text"></content>
+      <tags>
+        <tag>first-article</tag>
+      </tags>
   </entry>
   <entry>
     <title><![CDATA[David Jerry]]></title>
