@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[JDK 8：Lambdas和Streams简介]]></title>
     <url>%2F2019%2F03%2F22%2FJDK-8%EF%BC%9ALambdas%E5%92%8CStreams%E7%AE%80%E4%BB%8B%2F</url>
-    <content type="text"><![CDATA[[TOC] JDK 8：Lambdas和Streams简介开始之前Lambda表达式Streams API高级Lambda和Streams概念]]></content>
+    <content type="text"><![CDATA[[TOC] JDK 8：Lambdas和Streams简介开始之前 要开始使用，请下载并安装以下软件： Java SE 8 JDK或更高版本 NetBean IDELambda表达式 为什么Java中需要lambda表达式。 为什么这个功能在二十年后被添加到Java中。 lambda表达式的语法。 如何使用lambda表达式和管理其使用的规则。 使用lambda表达式的类和方法的示例，如Collections API中的新removeIf和replaceAll方法。介绍Lambda表达式是Java SE 8中包含的一个新的重要特性。它们提供了一种清晰简洁的方法来使用表达式表示一个方法接口。Lambda表达式还改进了Collection库，使其更容易迭代，过滤和提取数据Collection。此外，新的并发功能可提高多核环境的性能。内部类12345616 JButton testButton = new JButton(&quot;Test Button&quot;);17 testButton.addActionListener(new ActionListener()&#123;18 @Override public void actionPerformed(ActionEvent ae)&#123;19 System.out.println(&quot;Click Detected by Anon Class&quot;);20 &#125;21 &#125;); Lambda表达式语法 参数列表 箭头令牌 身体 (int x, int y) -&gt; x + y 12345678910System.out.println(&quot;===RunnableTest===&quot;);Runnable r1 = new Runnable() &#123; @Override public void run() &#123; System.out.println(&quot;Hello World One!&quot;); &#125;&#125;;Runnable r2 = () -&gt; System.out.println(&quot;Hello World Two!&quot;);r1.run();r2.run(); Streams API 使用函数式编程概念。 使用Java定义流和流管道。 使用Java类创建流。 在流管道中使用中间操作。 在流管道中使用终端操作。 使用Optional类处理空值。高级Lambda和Streams概念 使用流执行缩减。 在Java中创建和使用有限和无限流。 避免使用forEach。 使用Collectors类和collect方法从流中保存项目。 使用并行流，并在不学习时学习。 使用调试和故障排除流的技术。]]></content>
       <tags>
         <tag>JDK 8：Lambdas和Streams简介</tag>
       </tags>
