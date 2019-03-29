@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[第一个博客]]></title>
+    <url>%2F2019%2F03%2F29%2F%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%2F</url>
+    <content type="text"><![CDATA[[TOC] JDK 8：Lambdas和Streams简介开始之前[TOC] 连接目录第一个博客正文 标题 12345616 JButton testButton = new JButton(&quot;Test Button&quot;);17 testButton.addActionListener(new ActionListener()&#123;18 @Override public void actionPerformed(ActionEvent ae)&#123;19 System.out.println(&quot;Click Detected by Anon Class&quot;);20 &#125;21 &#125;); s]]></content>
+      <tags>
+        <tag>第一个博客</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[人生格言]]></title>
     <url>%2F2019%2F03%2F29%2F%E4%BA%BA%E7%94%9F%E6%A0%BC%E8%A8%80%2F</url>
     <content type="text"><![CDATA[12人尽其才,物尽所用. ------2019.3.29]]></content>
