@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[分布式事务]]></title>
+    <url>%2F2019%2F04%2F04%2F%E5%88%86%E5%B8%83%E5%BC%8F%E4%BA%8B%E5%8A%A1%2F</url>
+    <content type="text"><![CDATA[分布式事务转载: 田守枝Java技术博客http://www.tianshouzhi.com/api/tutorials/distributed_transaction]]></content>
+      <tags>
+        <tag>分布式事务</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title><![CDATA[数据库中间件详解]]></title>
+    <url>%2F2019%2F04%2F04%2F%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%AD%E9%97%B4%E4%BB%B6%E8%AF%A6%E8%A7%A3%2F</url>
+    <content type="text"><![CDATA[数据库中间件详解转载: 数据库中间件详解 作者:方志明数据库中间件详解https://mp.weixin.qq.com/s?__biz=MzAxNjk4ODE4OQ==&amp;mid=2247485397&amp;idx=1&amp;sn=97783757eb70bf0e5a5e891ae1482447&amp;chksm=9bed26a7ac9aafb1344c706cd8a5b20d1b15659470ba56db20b5573b0db9ba06421e3f3db066&amp;scene=21#wechat_redirect]]></content>
+      <tags>
+        <tag>数据库中间件详解</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[IntelliJ IDEA 酷炫插件推荐&快捷键使用]]></title>
     <url>%2F2019%2F04%2F04%2FIntelliJ-IDEA-%E9%85%B7%E7%82%AB%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90-%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8%2F</url>
     <content type="text"><![CDATA[转载Java 知音:https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&amp;mid=2247488006&amp;idx=1&amp;sn=d5c66d84724b1deebac6604749d04bf5&amp;chksm=ebd62d2adca1a43cb136b5740621e25854537054b9b3cac7451fd21ea55c0fc247e07a49d8cd&amp;scene=0&amp;xtrack=1&amp;key=bd2b5d5de1eb6c8572ea81ff3d5b32ebbd175163f1f6e158b384065a7dc1c86eb8979f5b377026b748ea00706096b6f24ce58512e552ecf01207fb6903f115c0311d9cbd4fcc868242ecc3506e817efd&amp;ascene=1&amp;uin=MTU4OTU4MzgwNw%3D%3D&amp;devicetype=Windows+10&amp;version=62060728&amp;lang=zh_CN&amp;pass_ticket=VmBXfaKIMQpEX3ooC0wJpnbw3waJ1YNhLYkMKXhV8DBZfekk2RwaIXNwEtHuL29n]]></content>
