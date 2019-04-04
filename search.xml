@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[IntelliJ IDEA 酷炫插件推荐&快捷键使用]]></title>
+    <url>%2F2019%2F04%2F04%2FIntelliJ-IDEA-%E9%85%B7%E7%82%AB%E6%8F%92%E4%BB%B6%E6%8E%A8%E8%8D%90-%E5%BF%AB%E6%8D%B7%E9%94%AE%E4%BD%BF%E7%94%A8%2F</url>
+    <content type="text"><![CDATA[转载Java 知音:https://mp.weixin.qq.com/s?__biz=MzI4Njc5NjM1NQ==&amp;mid=2247488006&amp;idx=1&amp;sn=d5c66d84724b1deebac6604749d04bf5&amp;chksm=ebd62d2adca1a43cb136b5740621e25854537054b9b3cac7451fd21ea55c0fc247e07a49d8cd&amp;scene=0&amp;xtrack=1&amp;key=bd2b5d5de1eb6c8572ea81ff3d5b32ebbd175163f1f6e158b384065a7dc1c86eb8979f5b377026b748ea00706096b6f24ce58512e552ecf01207fb6903f115c0311d9cbd4fcc868242ecc3506e817efd&amp;ascene=1&amp;uin=MTU4OTU4MzgwNw%3D%3D&amp;devicetype=Windows+10&amp;version=62060728&amp;lang=zh_CN&amp;pass_ticket=VmBXfaKIMQpEX3ooC0wJpnbw3waJ1YNhLYkMKXhV8DBZfekk2RwaIXNwEtHuL29n]]></content>
+      <tags>
+        <tag>IntelliJ IDEA 酷炫插件推荐&amp;快捷键使用</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[第一个博客]]></title>
     <url>%2F2019%2F03%2F29%2F%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2%2F</url>
-    <content type="text"><![CDATA[[TOC] JDK 8：Lambdas和Streams简介开始之前[TOC] 连接目录第一个博客正文 标题 12345616 JButton testButton = new JButton(&quot;Test Button&quot;);17 testButton.addActionListener(new ActionListener()&#123;18 @Override public void actionPerformed(ActionEvent ae)&#123;19 System.out.println(&quot;Click Detected by Anon Class&quot;);20 &#125;21 &#125;); s]]></content>
+    <content type="text"><![CDATA[[TOC] JDK 8：Lambdas和Streams简介开始之前[TOC] 连接目录第一个博客正文 标题 12345616 JButton testButton = new JButton(&quot;Test Button&quot;);17 testButton.addActionListener(new ActionListener()&#123;18 @Override public void actionPerformed(ActionEvent ae)&#123;19 System.out.println(&quot;Click Detected by Anon Class&quot;);20 &#125;21 &#125;);]]></content>
       <tags>
         <tag>第一个博客</tag>
       </tags>
